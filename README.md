@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 About Project:
 🎯 Business Objective<br><br>🔹 Analyze claim portfolios to identify high-risk segments<br><br>🔹 Monitor settlement trends and claim resolution patterns<br><br>🔹 Detect potential fraud signals through data-driven analysis<br><br>🔹 Evaluate operational throughput and processing efficiency<br><br>🔹 Support strategic decision-making with interactive dashboards<br><br>🛠️ Technologies Used<br><br>💻 Power BI<br><br>🗄️ SQL<br><br>🐍 Python<br><br>📊 Microsoft Excel<br><br>⚙️ Project Workflow<br><br>📥 Data Collection & Integration<br><br>🧹 Data Cleaning & Transformation<br><br>📈 Exploratory Data Analysis (EDA)<br><br>🔍 Risk Exposure Assessment<br><br>🚨 Fraud Signal Detection<br><br>📉 Settlement Trend Analysis<br><br>📊 Dashboard Development<br><br>📋 Business Insight Generation
 
 
